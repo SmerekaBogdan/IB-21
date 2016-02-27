@@ -8,7 +8,7 @@ http://www.rosettacode.org/wiki/Huffman_coding
 #####Для тих хто буде писати на Python декілька прикладів реалізації кодування за Шенноном-Фано:
 https://github.com/eholum/CodingTheoryPractice/blob/5377ad0eba4f37d193815271dbe0e711b6ac9c5d/python/ShannonFano.py
 https://github.com/stroykova/search/blob/07bd4cd088853fd01e26493ff731649348b4a28c/index/kbp/entro/sfc.py
-#####Хто питався мене про питанням написання чатів на Python можете подивитися на Хабрі(розділ "Различный практикум") https://habrahabr.ru/post/205944/
+#####Хто цікавився про написання чатів на Python можете подивитися на Хабрі(розділ "Различный практикум") https://habrahabr.ru/post/205944/
 #####Приклади задач, які ми розглядали на парі закіну в папку Python_codding_example в понеділок.
 
 ##Лабораторні роботи, які необхідно буде виконати:
