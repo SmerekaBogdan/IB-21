@@ -1,8 +1,15 @@
-##Update 2:
-Кодування за Хаффманом на різних мовах програмування:
+##Update 3:
+#####Deadline по першій лабораторній роботі в пятницю, 4.03.2016. 
+Ваші результати перекидуйте на адресу aleks.maksymiv@gmail.com
+#####Для тих хто буде писати на С++:
+https://github.com/alexcpp2013/Coding-Informatio/tree/master/src
+#####Кодування за Хаффманом на різних мовах програмування:
 http://www.rosettacode.org/wiki/Huffman_coding
-
-Поки що робіть тільки першу лабораторну роботу. Ваші результати перекидуйте на адресу aleks.maksymiv@gmail.com
+#####Для тих хто буде писати на Python декілька прикладів реалізації кодування за Шенноном-Фано:
+https://github.com/eholum/CodingTheoryPractice/blob/5377ad0eba4f37d193815271dbe0e711b6ac9c5d/python/ShannonFano.py
+https://github.com/stroykova/search/blob/07bd4cd088853fd01e26493ff731649348b4a28c/index/kbp/entro/sfc.py
+#####Хто питався мене про питанням написання чатів на Python можете подивитися на Хабрі(розділ "Различный практикум") https://habrahabr.ru/post/205944/
+#####Приклади задач, які ми розглядали на парі закіну в папку Python_codding_example в понеділок.
 
 ##Лабораторні роботи, які необхідно буде виконати:
 1. Ймовірнісний підхід до вимірювання обсягу дискретної інформації;
